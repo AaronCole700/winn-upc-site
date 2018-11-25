@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f5356dc9-a414-443e-ad61-729e3913660c/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/winnsboro-first-upc",
+    "appService.deploySubpath": ""
+}
